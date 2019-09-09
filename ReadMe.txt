@@ -1,5 +1,4 @@
 Muhammad Ahmad
-mahmad4
 mahmad4@u.rochester.edu
 
 My code does tries to figure out the combination within 5 attempts.
