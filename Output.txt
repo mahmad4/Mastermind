@@ -1,0 +1,37 @@
+Welcome to Mastermind!
+
+Press 1 to play, 0 to quit
+1
+Enter the number of positions :
+3
+Enter the number of colors you want to enter : 
+3
+Enter the colors(letters) separated by a space : 
+a b c
+[aaa, aab, aac, aba, abb, abc, aca, acb, acc, baa, bab, bac, bba, bbb, bbc, bca, bcb, bcc, caa, cab, cac, cba, cbb, cbc, cca, ccb, ccc]
+Next move : aaa
+Right color and right position : 0
+Right color and wrong position : 
+0
+[bbb, bbc, bcb, bcc, cbb, cbc, ccb, ccc]
+
+Next move : bbb
+Right color and right position : 2
+Right color and wrong position : 
+0
+[bbc, bcb, cbb]
+
+Next move : bbc
+Right color and right position : 1
+Right color and wrong position : 
+2
+[bcb, cbb]
+
+Next move : bcb
+Right color and right position : 3
+Right color and wrong position : 
+0
+I GOT IT !
+Press 1 to play, 0 to quit
+0
+GOOD BYE!
